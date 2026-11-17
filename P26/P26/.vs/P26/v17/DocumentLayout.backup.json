@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhkkx\\Desktop\\HW4\\P26\\P26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F87147-FF7C-4B11-8BD8-E04412A4B8AE}|P26\\P26.vcxproj|C:\\Users\\mhkkx\\Desktop\\HW4\\P26\\P26\\P26\\P26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9F87147-FF7C-4B11-8BD8-E04412A4B8AE}|P26\\P26.vcxproj|solutionrelative:P26\\P26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P26.cpp",
+              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\HW4\\P26\\P26\\P26\\P26.cpp",
+              "RelativeDocumentMoniker": "P26\\P26.cpp",
+              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\HW4\\P26\\P26\\P26\\P26.cpp*",
+              "RelativeToolTip": "P26\\P26.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-16T11:24:26.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

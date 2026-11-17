@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhkkx\\Desktop\\HW4\\P07\\P07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C6F5E3-3A3A-4D92-860E-814F04602187}|P07\\P07.vcxproj|C:\\Users\\mhkkx\\Desktop\\HW4\\P07\\P07\\P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7C6F5E3-3A3A-4D92-860E-814F04602187}|P07\\P07.vcxproj|solutionrelative:P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P07.cpp",
+              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\HW4\\P07\\P07\\P07\\P07.cpp",
+              "RelativeDocumentMoniker": "P07\\P07.cpp",
+              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\HW4\\P07\\P07\\P07\\P07.cpp*",
+              "RelativeToolTip": "P07\\P07.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-16T08:38:40.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
